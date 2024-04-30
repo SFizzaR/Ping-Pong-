@@ -1,4 +1,4 @@
-# Pong Game
+# ConsolePong++: A Classic Game Reinvented in C++
 
 This repository contains a simple Pong game implemented in C++ using console output. The game features two paddles controlled by players, a ball bouncing between the paddles, and a scoreboard to keep track of the players' scores.
 
