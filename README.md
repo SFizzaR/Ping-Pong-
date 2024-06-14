@@ -36,9 +36,6 @@ To run the Pong game:
 
 Contributions to this project are welcome. Feel free to fork this repository, make changes, and submit pull requests with your improvements.
 
-## License:
-
-This project is licensed under the [MIT License](LICENSE), allowing for open-source contributions and distribution.
 
 ## Authors:
 
